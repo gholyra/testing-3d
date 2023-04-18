@@ -5,9 +5,8 @@ using UnityEngine;
 
 public class CubeInput : MonoBehaviour
 {
-
-    private Transform transform;
     
+    private Transform transform;
     // Start is called before the first frame update
     void Start()
     {
@@ -19,7 +18,6 @@ public class CubeInput : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
+        
     }
-
 }
